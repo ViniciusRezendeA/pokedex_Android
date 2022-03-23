@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="veneno">Veneno</string>
+    <string name="treinamento">Treinamento</string>
+    <string name="_6_9kg">6.9KG</string>
+    <string name="_70_cm">70 cm</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="sobre">Sobre</string>
+    <string name="grama">Grama</string>
+    <string name="bulbasauro">Bulbasauro</string>
+    <string name="base_exp">Base EXP</string>
+    <string name="_64">64</string>
+</resources>
